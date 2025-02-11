@@ -5,7 +5,7 @@ DeTPP implementation is located at hotpp/losses/detection.py
 Configuration files can be found at experiments/dataset/configs/detection_hybrid.yaml
 
 # Installation
-Install via PyPI:
+Install via pip:
 ```sh
 pip install .
 ```

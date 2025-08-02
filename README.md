@@ -1,6 +1,6 @@
 The code uses the HoTPP benchmark for evaluation.
 
-DeTPP implementation is located at hotpp/losses/detection.py
+DEF implementation is located at hotpp/losses/detection.py
 
 Configuration files can be found at experiments/dataset/configs/detection_hybrid.yaml
 
